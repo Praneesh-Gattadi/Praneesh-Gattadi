@@ -1,15 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Praneesh 👋
 
 ### 👨‍💻 AI & ML Student | Aspiring Data Scientist | Tech Enthusiast
 
-I am a 3rd-year B.Sc. student specializing in **Artificial Intelligence and Machine Learning**. I love building tools that solve real-world problems using data and automation.
+I am a 2nd-year B.Sc. student specializing in **Artificial Intelligence and Machine Learning**. I love building tools that solve real-world problems using data and automation.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Python (Primary), C++, SQL
-- **AI/ML:** Scikit-learn, TensorFlow, Natural Language Processing (NLP)
-- **Web/Tools:** Flask, FastAPI, Git, GitHub, Docker
+- **Languages:** Python
+- **AI/ML:** Natural Language Processing (NLP)
+- **Web/Tools:** Flask Git, GitHub
 - **Data:** Pandas, NumPy, Matplotlib, PowerBI
 
 ---
@@ -21,15 +21,6 @@ I am a 3rd-year B.Sc. student specializing in **Artificial Intelligence and Mach
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical)
-
----
-
 ### 🤝 Let's Connect!
-- 💼 [LinkedIn](Your-Link-Here)
-- 🐦 [Twitter/X](Your-Link-Here)
-- 📧 [Email](mailto:your@email.com)
-
-"The best way to predict the future is to create it."
+- 💼 LinkedIn: https://www.linkedin.com/in/praneesh-gattadi-4a0522337/
+- 📧 Email: praneeshgattadi@gmail.com
