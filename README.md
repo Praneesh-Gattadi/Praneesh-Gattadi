@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Praneesh%20Gattadi&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7F7&height=200&section=header&text=Praneesh%20Gattadi&fontSize=70" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;Google+Student+Ambassador" alt="Typing SVG" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneesh-gattadi)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneeshgattadi@gmail.com)
+<a href="https://www.linkedin.com/in/praneesh-gattadi" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:praneeshgattadi@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 </div>
 
