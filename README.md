@@ -1,45 +1,29 @@
-# Hi there, I'm Praneesh 👋 
+<h1 align="center">Hi 👋, I'm Praneesh</h1>
+<h3 align="center">Intern at Innomatics Research Labs | Google Student Ambassador | AI&ML Enthusiastic | Machine Learning | Prompt Engineering | Python | Data Visualization | Power BI </h3>
 
-### 🤖 Machine Learning & GenAI Enthusiast | B.Sc. AI & ML Student
+- 🌱 I’m currently learning **Generative AI, LLMs, and Advanced NLP**
+- 👯 I’m looking to collaborate on **Open Source AI Projects**
+- 👨‍💻 All of my projects are available at [https://github.com/Praneesh-Gattadi](https://github.com/Praneesh-Gattadi)
+- 💬 Ask me about **Machine Learning, Python**
+- 📫 How to reach me **praneeshgattadi@gmail.com**
+- 📄 Know about my experiences [My Resume](Link-to-your-resume)
 
-I am a passionate AI/ML student focused on building intelligent systems and automating the future. Currently, I am honing my skills in Generative AI and Data Science through hands-on projects and industry experience.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/praneesh-gattadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Praneesh-Gattadi" height="30" width="40" /></a>
+</p>
 
----
-
-### 🌟 Professional Snapshot
-* **🔍 Current Focus:** Deepening my expertise in **Generative AI** and **NLP**.
-* **💼 Internship:** Data Science with GenAI Intern at **Innomatics Research Labs**.
-* **🎓 Education:** 2nd Year B.Sc. in Artificial Intelligence & Machine Learning (Expected 2027).
-* **📢 Leadership:** Google Student Ambassador & Campus Ambassador for E-Summit '26, **IIT Roorkee**.
-
----
-
-### 🛠️ My Tech Stack
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL |
-| **AI/ML/GenAI** | Scikit-learn, LLMs, LangChain, RAG |
-| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn, PowerBI |
-| **Tools** | Git, GitHub, FastAPI |
 
 ---
 
-### 📂 Featured Projects
-* **[PlagiCheck](Your-Link)**: Real-time document similarity detection system using advanced NLP techniques.
-* **[Talent Track](Your-Link)**: Smart ATS Resume Analyzer built with GenAI to optimize recruitment.
-* **[AI Career Advisor Chatbot](Your-Link)**: A deployed intelligent assistant designed to guide students in tech.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praneesh-Gattadi&show_icons=true&theme=gotham" alt="GitHub Stats" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneesh-Gattadi&theme=gotham" alt="GitHub Streak" />
+</p>
 
-### 📊 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneesh-Gattadi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneesh-Gattadi&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Let's Connect!
-- **LinkedIn:** https://www.linkedin.com/in/praneesh-gattadi-4a0522337/
-- **Email:** praneeshgattadi@gmail.com 
-
----
-*“The best way to predict the future is to build it.”*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Praneesh-Gattadi&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Top Languages" />
+</p>
