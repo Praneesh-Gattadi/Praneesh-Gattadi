@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Praneesh%20Gattadi&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Praneesh%20Gattadi&fontSize=70" />
 
-### Intern at Innomatics Research Labs | AI&ML Enthusiastic | Machine Learning
+### Intern at Innomatics Research Labs | Google Student Ambassador | AI&ML Enthusiastic | Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneesh-gattadi)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneeshgattadi@gmail.com)
