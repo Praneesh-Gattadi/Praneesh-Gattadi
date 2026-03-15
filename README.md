@@ -36,4 +36,4 @@
 </p>
 
 ### 🐍 My Contribution Snake
-![snake github game](https://github.com/Praneesh-Gattadi/Praneesh-Gattadi/blob/output/github-contribution-grid-snake.svg)
+![snake github game](https://github.com/Praneesh-Gattadi/Praneesh-Gattadi/blob/output/github-contribution-grid-snake-dark.svg)
