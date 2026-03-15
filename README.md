@@ -1,20 +1,17 @@
 <div align="center">
 
 # Praneesh Gattadi
-![Praneesh's Banner](https://raw.githubusercontent.com/Praneesh-Gattadi/Praneesh-Gattadi/blob/main/header.png)
+  
+![Banner](https://canva-banners.vercel.app/api?name=Praneesh%20Gattadi&subtitle=AI%20%26%20ML%20Enthusiast&theme=dark)
 
 <br>
 
-<h3 align="center">Intern at Innomatics Research Labs | AI&ML Enthusiastic | Machine Learning</h3>
-
-<br>
+### Intern at Innomatics Research Labs | AI&ML Enthusiastic | Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneesh-gattadi)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneeshgattadi@gmail.com)
 
 </div>
-
-<br>
 
 
 - 🎓 **Education:** Pursuing B.Sc in AI & ML at Siva Sivani Degree College (GPA: 9.76/10) 
