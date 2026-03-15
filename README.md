@@ -38,7 +38,7 @@ I am a passionate AI/ML student focused on building intelligent systems and auto
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** https://linkedin.com/in/[praneesh-gattadi-4a0522337/
+- **LinkedIn:** https://linkedin.com/in/[praneesh-gattadi-4a0522337/](https://www.linkedin.com/in/praneesh-gattadi-4a0522337/)
 - **Email:** praneeshgattadi@gmail.com 
 
 ---
