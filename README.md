@@ -15,11 +15,11 @@
 ---
 
 
-- 🎓 **Education:** Pursuing B.Sc in AI & ML at Siva Sivani Degree College (GPA: 9.76/10) 
+- 🎓 **Education:** Pursuing B.Sc in AI & ML at Siva Sivani Degree College (CGPA: 9.76/10) 
 - 💼 **Current Role:** Data Science with GenAI Intern at **Innomatics Research Labs** 
 - 🔭 **Recent Work:** Developed **Flipkart Sentiment Analysis** models and deployed on **AWS EC2** 
 - 🌱 **Learning:** Advanced **MLflow** workflows and **Prompt Engineering** 
-- 👨‍💻 **Tech Interests:** Computer Vision, Generative AI, and Data Visualization 
+- 👨‍💻 **Tech Interests:** NLP, ML, DL, Computer Vision, Generative AI, and Data Visualization 
 - 📫 **Reach Me:** [praneeshgattadi@gmail.com](mailto:praneeshgattadi@gmail.com)
 - 📄 **Resume:** [View My Full Resume](Link-to-your-hosted-file)
 
