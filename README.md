@@ -19,11 +19,11 @@
 
 ### 📂 Highlighted Projects
 
-**[Blink Detection System](https://github.com/Praneesh-Gattadi)**: Real-time system using **OpenCV** and **MediaPipe** for driver drowsiness detection.
+**[Blink Detection System](https://github.com/Praneesh-Gattadi/BLINK_DETECTION_SYSTEM)**: Real-time system using **OpenCV** and **MediaPipe** for driver drowsiness detection.
 
-**[Weather Dashboard](https://github.com/Praneesh-Gattadi)**: Interactive dashboard built with **Streamlit** and **Plotly** for real-time data analysis.
+**[Weather Dashboard](https://github.com/Praneesh-Gattadi/WEATHER_DASHBOARD)**: Interactive dashboard built with **Streamlit** and **Plotly** for real-time data analysis.
 
-**[Flipkart Sentiment Analysis](https://github.com/Praneesh-Gattadi)**: End-to-end ML project with **MLflow** tracking and **AWS** deployment.
+**[Flipkart Sentiment Analysis](https://github.com/Praneesh-Gattadi/FLIPKART_SENTIMENT_ANALYSIS)**: End-to-end ML project with **MLflow** tracking and **AWS** deployment.
 
 ---
 
