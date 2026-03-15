@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praneesh Gattadi</h1>
 <h3 align="center">B.Sc. AI & ML Student | Data Science & GenAI Intern @ Innomatics Research Labs</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praneesh-Gattadi&label=Profile%20views&color=0e75b6&style=flat" alt="Praneesh-Gattadi" />
-</p>
-
 - 🎓 **Education:** Pursuing B.Sc in AI & ML at Siva Sivani Degree College (GPA: 9.76/10) 
 - 💼 **Current Role:** Data Science with GenAI Intern at **Innomatics Research Labs** 
 - 🔭 **Recent Work:** Developed **Flipkart Sentiment Analysis** models and deployed on **AWS EC2** 
