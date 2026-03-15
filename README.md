@@ -1,5 +1,20 @@
-<h1 align="center">Hi 👋, I'm Praneesh Gattadi</h1>
-<h3 align="center">B.Sc. AI & ML Student | Data Science & GenAI Intern @ Innomatics Research Labs</h3>
+<div align="center">
+
+# Praneesh Gattadi
+![Praneesh's Banner](https://raw.githubusercontent.com/Praneesh-Gattadi/Praneesh-Gattadi/blob/main/header.png)
+
+<br>
+
+<h3 align="center">Intern at Innomatics Research Labs | AI&ML Enthusiastic | Machine Learning</h3>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneesh-gattadi)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneeshgattadi@gmail.com)
+
+</div>
+
+<br>
 
 
 - 🎓 **Education:** Pursuing B.Sc in AI & ML at Siva Sivani Degree College (GPA: 9.76/10) 
@@ -9,11 +24,6 @@
 - 👨‍💻 **Tech Interests:** Computer Vision, Generative AI, and Data Visualization 
 - 📫 **Reach Me:** [praneeshgattadi@gmail.com](mailto:praneeshgattadi@gmail.com)
 - 📄 **Resume:** [View My Full Resume](Link-to-your-hosted-file)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/praneesh-gattadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Praneesh Gattadi" height="30" width="40" /></a>
-</p>
 
 ---
 
