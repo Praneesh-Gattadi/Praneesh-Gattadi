@@ -2,12 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Praneesh%20Gattadi&fontSize=70" />
 
-### Intern at Innomatics Research Labs | Google Student Ambassador | AI&ML Enthusiastic | Machine Learning
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;Google+Student+Ambassador" alt="Typing SVG" />
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneesh-gattadi)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneeshgattadi@gmail.com)
 
 </div>
+
 
 ---
 
