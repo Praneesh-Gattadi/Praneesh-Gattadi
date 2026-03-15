@@ -21,7 +21,7 @@
 - 🌱 **Learning:** Advanced **MLflow** workflows and **Prompt Engineering** 
 - 👨‍💻 **Tech Interests:** NLP, ML, DL, Computer Vision, Generative AI, and Data Visualization 
 - 📫 **Reach Me:** [praneeshgattadi@gmail.com](mailto:praneeshgattadi@gmail.com)
-- 📄 **Resume:** [View My Full Resume](Link-to-your-hosted-file)
+- 📄 **Resume:** [View My Full Resume](https://github.com/Praneesh-Gattadi/Praneesh-Gattadi/raw/refs/heads/main/Praneesh_Resume.docx)
 
 ---
 
