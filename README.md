@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Praneesh%20Gattadi&fontSize=70" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;Ex-Google+Student+Ambassador" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;Ex - Google+Student+Ambassador" alt="Typing SVG" />
 
 <br>
 
@@ -20,7 +20,7 @@
 
 
 - 🎓 **Education:** Pursuing B.Sc in AI & ML at Siva Sivani Degree College (CGPA: 9.76/10) 
-- 💼 **Current Role:** Data Science with GenAI Intern at **Innomatics Research Labs** 
+- 💼 **Experience** Data Science with GenAI Intern at **Innomatics Research Labs** 
 - 🔭 **Recent Work:** Developed **Flipkart Sentiment Analysis** models and deployed on **AWS EC2** 
 - 🌱 **Learning:** Advanced **MLflow** workflows and **Prompt Engineering** 
 - 👨‍💻 **Tech Interests:** NLP, ML, DL, Computer Vision, Generative AI, and Data Visualization 
