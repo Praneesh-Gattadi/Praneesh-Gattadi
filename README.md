@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Praneesh%20Gattadi&fontSize=70" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;Google+Student+Ambassador" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;Ex-Google+Student+Ambassador" alt="Typing SVG" />
 
 <br>
 
@@ -25,7 +25,7 @@
 - 🌱 **Learning:** Advanced **MLflow** workflows and **Prompt Engineering** 
 - 👨‍💻 **Tech Interests:** NLP, ML, DL, Computer Vision, Generative AI, and Data Visualization 
 - 📫 **Reach Me:** [praneeshgattadi@gmail.com](mailto:praneeshgattadi@gmail.com)
-- 📄 **Resume:** [View My Full Resume](https://github.com/Praneesh-Gattadi/Praneesh-Gattadi/raw/refs/heads/main/Praneesh_Resume.docx)
+- 📄 **Resume:** [Download My Updated Resume](https://github.com/Praneesh-Gattadi/Praneesh-Gattadi/raw/main/Praneesh_Resume.docx)
 
 ---
 
