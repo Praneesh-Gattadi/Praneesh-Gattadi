@@ -67,6 +67,7 @@
 ## 🏆 Achievements & Activities
 
 - 🥇 **Hackathon Winner** - 🏆 1st Place at *SSDC Hackathon 2025* as **Team Lead** - built & deployed SmartGrade AI
+- 🥈 **LeetCode Runner Up** - 2nd Place at LeetCode 2025 Contest at SSDC
 - 🎙️ **Ex-Google Student Ambassador** - Represented Google Gemini at Siva Sivani Degree College
 - 📈 **CGPA: 9.76 / 10** - Consistently top performing student in B.Sc AI & ML program
 - ☁️ **AWS Deployment** - Successfully deployed multiple projects on AWS EC2
