@@ -8,7 +8,6 @@
   <a href="mailto:praneeshgattadi@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-
 ---
 
 ## 👋 About Me
@@ -63,7 +62,6 @@
 | 👁️ **Blink Detection System** | Real-time driver drowsiness detection using face mesh landmarks, automatic calibration, and motion filtering for high-precision blink counting. | Python, OpenCV, MediaPipe | [Repo](https://github.com/Praneesh-Gattadi/BLINK_DETECTION_SYSTEM) |
 | 🌦️ **Weather Dashboard** | Interactive real-time weather app with 5-day forecasts and dynamic visualizations powered by the OpenWeatherMap API. | Streamlit, Plotly, OpenWeatherMap API | [Repo](https://github.com/Praneesh-Gattadi/WEATHER_DASHBOARD) |
 
-
 ---
 
 ## 🏆 Achievements & Activities
@@ -77,18 +75,23 @@
 
 ## 📜 Certifications
 
-- 📘 **An Introduction to Programming using Python** - *Coursera* 
+- 📘 **An Introduction to Programming using Python** - *Coursera*
 - 📗 **Data Visualization with Python** - *Coursera*
-- 📙 **Advanced Power BI: Expert Data Analysis and Visualization** - *Udemy* 
-- 📘 **Prompt Engineering & Programming with OpenAI** - *Columbia +* 
+- 📙 **Advanced Power BI: Expert Data Analysis and Visualization** - *Udemy*
+- 📘 **Prompt Engineering & Programming with OpenAI** - *Columbia +*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praneesh-Gattadi&show_icons=true&theme=gotham&cache_seconds=86400&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneesh-Gattadi&layout=compact&theme=gotham&cache_seconds=86400&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praneesh-Gattadi&theme=gotham" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Praneesh-Gattadi&theme=gotham&hide_border=true" alt="GitHub Streak" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praneesh-Gattadi&theme=gotham" alt="Top Languages" />
 </p>
 
 ---
