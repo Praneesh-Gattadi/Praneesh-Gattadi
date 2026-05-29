@@ -1,8 +1,12 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Praneesh%20Gattadi&fontSize=70)](https://github.com/Praneesh-Gattadi)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;Ex-Google+Student+Ambassador)](https://github.com/Praneesh-Gattadi)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;Ex-Google+Student+Ambassador" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneesh-gattadi)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneeshgattadi@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/praneesh-gattadi"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:praneeshgattadi@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 
 ---
@@ -11,7 +15,7 @@
 
 - 🎓 **Education:** B.Sc in AI & ML - Siva Sivani Degree College (**CGPA: 9.76 / 10**)
 - 💼 **Experience:** Data Science with GenAI Intern @ **Innomatics Research Labs**
-- 🏆 **Hackathon:** Built & deployed **SmartGrade AI** - an LLM-powered automated answer evaluator (AWS EC2)
+- 🏆 **Hackathon Winner:** Led team to victory at *SSDC Hackathon 2025* — built & deployed **SmartGrade AI**, an LLM-powered automated answer evaluator (AWS EC2)
 - 🚀 **Recent Work:** Flipkart Sentiment Analysis (MLflow + AWS EC2) · YouTube-to-Article Summarizer (AWS EC2)
 - 🌱 **Currently Learning:** MLflow workflows · Prompt Engineering · Deep Learning · Gen AI 
 - 👨‍💻 **Interests:** NLP · ML · DL · Computer Vision · Generative AI · Data Visualization
@@ -64,7 +68,7 @@
 
 ## 🏆 Achievements & Activities
 
-- 🥇 **Hackathon Winner** - Built SmartGrade AI & Won *SSDC Hackathon 2025* (Team Lead)
+- 🥇 **Hackathon Winner** — 🏆 1st Place at *SSDC Hackathon 2025* as **Team Lead** — built & deployed SmartGrade AI
 - 🎙️ **Ex-Google Student Ambassador** - Represented Google Gemini at Siva Sivani Degree College
 - 📈 **CGPA: 9.76 / 10** - Consistently top-performing student in B.Sc AI & ML program
 - ☁️ **AWS Deployment** - Successfully deployed multiple projects on AWS EC2
@@ -73,14 +77,18 @@
 
 ## 📜 Certifications
 
-> *(Add your certifications here — e.g., AWS Cloud Practitioner, Google AI/ML, Coursera Deep Learning Specialization, etc.)*
+- 📘 **[Certification Name]** — *Issuer (e.g. Coursera / Google / AWS)* · Year
+- 📗 **[Certification Name]** — *Issuer (e.g. NPTEL / DeepLearning.AI)* · Year
+- 📙 **[Certification Name]** — *Issuer (e.g. Innomatics Research Labs)* · Year
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praneesh-Gattadi&show_icons=true&theme=gotham)](https://github.com/Praneesh-Gattadi)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praneesh-Gattadi&show_icons=true&locale=en&layout=compact&theme=gotham)](https://github.com/Praneesh-Gattadi)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praneesh-Gattadi&show_icons=true&theme=gotham&cache_seconds=86400&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneesh-Gattadi&layout=compact&theme=gotham&cache_seconds=86400&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
