@@ -15,7 +15,7 @@
 
 - 🎓 **Education:** B.Sc in AI & ML - Siva Sivani Degree College (**CGPA: 9.76 / 10**)
 - 💼 **Experience:** Data Science with GenAI Intern @ **Innomatics Research Labs**
-- 🏆 **Hackathon Winner:** Led team to victory at *SSDC Hackathon 2025* — built & deployed **SmartGrade AI**, an LLM-powered automated answer evaluator (AWS EC2)
+- 🏆 **Hackathon Winner:** Led team to victory at *SSDC Hackathon 2025* - built & deployed **SmartGrade AI**, an LLM-powered automated answer evaluator (AWS EC2)
 - 🚀 **Recent Work:** Flipkart Sentiment Analysis (MLflow + AWS EC2) · YouTube-to-Article Summarizer (AWS EC2)
 - 🌱 **Currently Learning:** MLflow workflows · Prompt Engineering · Deep Learning · Gen AI 
 - 👨‍💻 **Interests:** NLP · ML · DL · Computer Vision · Generative AI · Data Visualization
@@ -68,18 +68,19 @@
 
 ## 🏆 Achievements & Activities
 
-- 🥇 **Hackathon Winner** — 🏆 1st Place at *SSDC Hackathon 2025* as **Team Lead** — built & deployed SmartGrade AI
+- 🥇 **Hackathon Winner** - 🏆 1st Place at *SSDC Hackathon 2025* as **Team Lead** - built & deployed SmartGrade AI
 - 🎙️ **Ex-Google Student Ambassador** - Represented Google Gemini at Siva Sivani Degree College
-- 📈 **CGPA: 9.76 / 10** - Consistently top-performing student in B.Sc AI & ML program
+- 📈 **CGPA: 9.76 / 10** - Consistently top performing student in B.Sc AI & ML program
 - ☁️ **AWS Deployment** - Successfully deployed multiple projects on AWS EC2
 
 ---
 
 ## 📜 Certifications
 
-- 📘 **[Certification Name]** — *Issuer (e.g. Coursera / Google / AWS)* · Year
-- 📗 **[Certification Name]** — *Issuer (e.g. NPTEL / DeepLearning.AI)* · Year
-- 📙 **[Certification Name]** — *Issuer (e.g. Innomatics Research Labs)* · Year
+- 📘 **An Introduction to Programming using Python** - *Coursera* 
+- 📗 **Data Visualization with Python** - *Coursera*
+- 📙 **Advanced Power BI: Expert Data Analysis and Visualization** - *Udemy* 
+- 📘 **Prompt Engineering & Programming with OpenAI** - *Columbia +* 
 
 ---
 
