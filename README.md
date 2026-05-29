@@ -1,5 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Praneesh%20Gattadi&fontSize=70)](https://github.com/Praneesh-Gattadi)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;Ex-Google+Student+Ambassador;Hackathon+Builder;Cloud+%26+MLOps+Explorer)](https://github.com/Praneesh-Gattadi)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;Ex-Google+Student+Ambassador)](https://github.com/Praneesh-Gattadi)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneesh-gattadi)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneeshgattadi@gmail.com)
@@ -13,7 +13,7 @@
 - 💼 **Experience:** Data Science with GenAI Intern @ **Innomatics Research Labs**
 - 🏆 **Hackathon:** Built & deployed **SmartGrade AI** — an LLM-powered automated answer evaluator (AWS EC2)
 - 🚀 **Recent Work:** Flipkart Sentiment Analysis (MLflow + AWS EC2) · YouTube-to-Article Summarizer (AWS EC2)
-- 🌱 **Currently Learning:** Advanced MLflow workflows · Prompt Engineering · Docker · FastAPI
+- 🌱 **Currently Learning:** MLflow workflows · Prompt Engineering · Deep Learning · Gen AI **
 - 👨‍💻 **Interests:** NLP · ML · DL · Computer Vision · Generative AI · Data Visualization
 - 📫 **Reach Me:** praneeshgattadi@gmail.com
 - 📄 **Resume:** [Download Here](https://github.com/Praneesh-Gattadi/Praneesh-Gattadi/raw/main/Praneesh_Resume.docx)
@@ -36,14 +36,11 @@
 
 ### MLOps & Tools
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -61,16 +58,16 @@
 | 🎭 **Flipkart Sentiment Analysis** | End-to-end NLP pipeline to classify product reviews as positive/negative, with MLflow experiment tracking and AWS cloud deployment. | Python, NLTK, TF-IDF, Logistic Regression, MLflow, AWS EC2 | [Repo](https://github.com/Praneesh-Gattadi/FLIPKART_SENTIMENT_ANALYSIS) |
 | 👁️ **Blink Detection System** | Real-time driver drowsiness detection using face mesh landmarks, automatic calibration, and motion filtering for high-precision blink counting. | Python, OpenCV, MediaPipe | [Repo](https://github.com/Praneesh-Gattadi/BLINK_DETECTION_SYSTEM) |
 | 🌦️ **Weather Dashboard** | Interactive real-time weather app with 5-day forecasts and dynamic visualizations powered by the OpenWeatherMap API. | Streamlit, Plotly, OpenWeatherMap API | [Repo](https://github.com/Praneesh-Gattadi/WEATHER_DASHBOARD) |
-| 🔍 **Regex Matcher (Flask)** | A Flask web app that replicates the core functionality of regex101.com for real-time regex testing and matching. | Python, Flask, HTML | [Repo](https://github.com/Praneesh-Gattadi/INNOMATICS_RESERACH_LABS_REGEX_MATCHER_FLASK) |
+
 
 ---
 
 ## 🏆 Achievements & Activities
 
-- 🥇 **Hackathon Participant** — Built SmartGrade AI for the *AI-Powered Everyday Tools Hackathon 2025* (Team Lead)
+- 🥇 **Hackathon Winner** — Built SmartGrade AI for *SSDC Hackathon 2025* (Team Lead)
 - 🎙️ **Ex-Google Student Ambassador** — Represented Google's student programs at Siva Sivani Degree College
 - 📈 **CGPA: 9.76 / 10** — Consistently top-performing student in B.Sc AI & ML program
-- ☁️ **AWS Deployment** — Successfully deployed multiple ML projects on AWS EC2
+- ☁️ **AWS Deployment** — Successfully deployed multiple projects on AWS EC2
 
 ---
 
