@@ -3,17 +3,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneesh-gattadi)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praneeshgattadi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praneesh-Gattadi)
+
 
 ---
 
 ## 👋 About Me
 
-- 🎓 **Education:** B.Sc in AI & ML — Siva Sivani Degree College (**CGPA: 9.76 / 10**)
+- 🎓 **Education:** B.Sc in AI & ML - Siva Sivani Degree College (**CGPA: 9.76 / 10**)
 - 💼 **Experience:** Data Science with GenAI Intern @ **Innomatics Research Labs**
-- 🏆 **Hackathon:** Built & deployed **SmartGrade AI** — an LLM-powered automated answer evaluator (AWS EC2)
+- 🏆 **Hackathon:** Built & deployed **SmartGrade AI** - an LLM-powered automated answer evaluator (AWS EC2)
 - 🚀 **Recent Work:** Flipkart Sentiment Analysis (MLflow + AWS EC2) · YouTube-to-Article Summarizer (AWS EC2)
-- 🌱 **Currently Learning:** MLflow workflows · Prompt Engineering · Deep Learning · Gen AI **
+- 🌱 **Currently Learning:** MLflow workflows · Prompt Engineering · Deep Learning · Gen AI 
 - 👨‍💻 **Interests:** NLP · ML · DL · Computer Vision · Generative AI · Data Visualization
 - 📫 **Reach Me:** praneeshgattadi@gmail.com
 - 📄 **Resume:** [Download Here](https://github.com/Praneesh-Gattadi/Praneesh-Gattadi/raw/main/Praneesh_Resume.docx)
@@ -64,10 +64,10 @@
 
 ## 🏆 Achievements & Activities
 
-- 🥇 **Hackathon Winner** — Built SmartGrade AI for *SSDC Hackathon 2025* (Team Lead)
-- 🎙️ **Ex-Google Student Ambassador** — Represented Google's student programs at Siva Sivani Degree College
-- 📈 **CGPA: 9.76 / 10** — Consistently top-performing student in B.Sc AI & ML program
-- ☁️ **AWS Deployment** — Successfully deployed multiple projects on AWS EC2
+- 🥇 **Hackathon Winner** - Built SmartGrade AI & Won *SSDC Hackathon 2025* (Team Lead)
+- 🎙️ **Ex-Google Student Ambassador** - Represented Google Gemini at Siva Sivani Degree College
+- 📈 **CGPA: 9.76 / 10** - Consistently top-performing student in B.Sc AI & ML program
+- ☁️ **AWS Deployment** - Successfully deployed multiple projects on AWS EC2
 
 ---
 
