@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-- 🎓 **Education:** B.Sc in AI & ML - Siva Sivani Degree College (**CGPA: 9.76 / 10**)
+- 🎓 **Education:** B.Sc in AI & ML - Siva Sivani Degree College (**CGPA: 9.73 / 10**)
 - 💼 **Experience:** Data Science with GenAI Intern @ **Innomatics Research Labs**
 - 🏆 **Hackathon Winner:** Led team to victory at *SSDC Hackathon 2025* - built & deployed **SmartGrade AI**, an LLM-powered automated answer evaluator (AWS EC2)
 - 🚀 **Recent Work:** Flipkart Sentiment Analysis (MLflow + AWS EC2) · YouTube-to-Article Summarizer (AWS EC2)
